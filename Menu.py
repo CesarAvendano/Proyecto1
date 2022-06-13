@@ -12,5 +12,5 @@ elif(opcion == 2):
 elif(opcion == 3):
     print("Bienvenido al sistema de prestamos")
 else:
-    print("Categoria no valida! ")
+    print("Categoria no valida!")
 

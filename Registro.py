@@ -1,0 +1,11 @@
+print("Registro")
+nombre = input("Ingrese su nombre: ")
+primer_apellido = input("Ingrese su primer apellido: ")
+segundo_apellido = input("Ingrese su segundo apellido: ")
+direccion = input("Ingrese su direccion: ")
+telefono = input("Ingrese su telefono: ")
+puesto = input("Ingrese su puesto de trabajo: ")
+annos_laborados = input("Ingrese sus años laborados: ")
+monto_de_ahorro = input("Ingrese su monto de ahorro: ")
+
+print("Usuario registrado correctamente")
